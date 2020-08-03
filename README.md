@@ -8,9 +8,14 @@ with enemies with different modes to attack, getting caught in traps ,
 discovering a suspicious looking cave , coming across a magical fruit.
 
 
+
+
 The goal of the game is to reach the treasure before you run out of hit points.
 The movement across the island is automatic but it is the player's responsibility 
 to deal with the hazards the island has to offer!
+
+
+
 
 
 
@@ -24,6 +29,10 @@ Random events :
 
 •	win/loose a special item
 
+
+
+
+
 Player stats  :
 
 •	hit points
@@ -31,6 +40,9 @@ Player stats  :
 •	attacking power
 
 •	healing points
+
+
+
 
 Attacking modes :
 
