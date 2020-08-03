@@ -21,35 +21,36 @@ to deal with the hazards the island has to offer!
 
 Random events :
 
-•	facing a weak/strong enemy in a combat
+ •	facing a weak/strong enemy in a combat
 
-•	escape/fall into random traps
+ •	escape/fall into random traps
 
-•	gain/loose power points from eating the magic fruit
+ •	gain/loose power points from eating the magic fruit
 
-•	win/loose a special item
+ •	win/loose a special item
 
 
-
+.
 
 
 Player stats  :
 
-•	hit points
+ •	hit points
 
-•	attacking power
+ •	attacking power
 
-•	healing points
+ •	healing points
 
 
+.
 
 
 Attacking modes :
 
-•	strike
+ •	strike
 
-•	cast a spell
+ •	cast a spell
 
-•	heal
+ •	heal
 
 
