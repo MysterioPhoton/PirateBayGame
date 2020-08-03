@@ -10,17 +10,32 @@ The movement across the island is automatic but it is the player's responsibilit
 with the hazards the island has to offer!
 
 Random events :
+
 *facing a weak/strong enemy in a combat*
+
 *escape/fall into random traps*
+
 *gain/loose power points from eating the magic fruit*
+
 *win/loose a special item*
 
+
+
 Player stats  :
+
 *hit points*
+
 *attacking power*
+
 *healing points*
 
+
+
 Attacking modes :
+
 *strike*
+
 *cast a spell*
+
 *heal*
+
